@@ -7,6 +7,9 @@ are provided to promote developing bone subtraction [Ref 2] technologies
 such as Matched Mask Bone Elimination (MMBE) [Ref 3] for improving CTA
 visualization and automated analysis.
 
+[data available at]
+https://www.kaggle.com/adamhuan/multiphase-ct-anigography-2-datasets
+
 Codes for processing these datasets will be provided in the near future.
 
 Please refer to the following references if you use these datasets in
