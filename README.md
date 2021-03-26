@@ -1,10 +1,11 @@
 # MMBE_Multiphase_CTA
 The MMBE bone-subtraction multiphase CT angiography project
 
-This project provides two publicallly available multiphase CTA datasets.
+This project provides two publically available multiphase CTA datasets.
 Each dataset consists with phases 0 and 1 scans [Ref 1]. These datasets
 are provided to promote developing bone subtraction [Ref 2] technologies
-such as Matched Mask Bone Elimination (MMBE) [Ref 3].
+such as Matched Mask Bone Elimination (MMBE) [Ref 3] for improving CTA
+visualization and automated analysis.
 
 Codes for processing these datasets will be provided in the near future.
 
